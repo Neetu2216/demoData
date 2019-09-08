@@ -1,0 +1,16 @@
+{
+            "empId": 100,
+            "empName": "Jack",
+            "age": 30,
+            "salary": 50000,
+            "image": "emp1.jpg",
+            "achievements": "Has got 3 bravo awards and 1 MVP award. Has worked on cutting edge technologies as well"
+        },
+        {
+            "empId": 101,
+            "empName": "Jane",
+            "age": 24,
+            "salary": 40000,
+            "image": "emp2.png",
+            "achievements": "No major achievements so far"
+        }
